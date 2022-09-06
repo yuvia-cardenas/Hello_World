@@ -1,3 +1,2 @@
 Hello World!
 Now I'm adding a second line of content
-Adding a 3rd line of text
